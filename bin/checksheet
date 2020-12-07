@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh -q r21-001 "/home/dkreitler/miniconda3/envs/lsdc-dev/bin/python3.7 /GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/parseSheet.py $PWD/$1"
