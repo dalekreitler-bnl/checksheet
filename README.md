@@ -43,65 +43,65 @@ checksheet test.xls
 
 Output (the hostkey error is unrelated to checksheet):
 
-dkreitler@xf17id2-ws3:/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets$ checksheet test.xls
-no matching hostkey found for key ED25519 14:6f:40:26:2a:67:e2:fe:f7:4b:f7:ed:fa:fe:9c:c2
-['/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/parseSheet.py', '/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets/test.xls']
-Executing dry run for importSpreadsheet
-Spreadsheet starting with puck NSLS2_4 being created...
-NSLS2_4_01 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_02 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_03 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_04 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_05 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_06 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_07 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_08 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_09 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_10 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_11 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_12 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_13 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_14 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_15 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_4_16 would have gone in container NSLS2_4, previously loaded by jjakoncic
-NSLS2_24_01 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_02 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_03 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_04 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_05 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_06 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_07 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_08 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_09 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_10 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_11 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_12 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_13 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_14 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_15 would have gone in container NSLS2_24, previously loaded by jjakoncic
-NSLS2_24_16 would have gone in container NSLS2_24, previously loaded by jjakoncic
-ILL_6_01 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_02 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_03 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_04 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_05 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_06 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_07 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_08 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_09 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_10 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_11 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_12 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_13 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_14 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_15 would have gone in container ILL_6, previously loaded by jjakoncic
-ILL_6_16 would have gone in container ILL_6, previously loaded by jjakoncic
-Spreadsheet would start with NSLS2_4 created with 48 samples
+dkreitler@xf17id2-ws3:/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets$ checksheet test.xls</br>
+no matching hostkey found for key ED25519 14:6f:40:26:2a:67:e2:fe:f7:4b:f7:ed:fa:fe:9c:c2</br>
+['/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/parseSheet.py', '/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets/test.xls']</br>
+Executing dry run for importSpreadsheet</br>
+Spreadsheet starting with puck NSLS2_4 being created...</br>
+NSLS2_4_01 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_02 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_03 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_04 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_05 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_06 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_07 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_08 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_09 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_10 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_11 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_12 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_13 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_14 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_15 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_4_16 would have gone in container NSLS2_4, previously loaded by jjakoncic</br>
+NSLS2_24_01 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_02 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_03 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_04 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_05 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_06 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_07 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_08 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_09 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_10 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_11 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_12 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_13 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_14 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_15 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+NSLS2_24_16 would have gone in container NSLS2_24, previously loaded by jjakoncic</br>
+ILL_6_01 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_02 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_03 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_04 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_05 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_06 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_07 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_08 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_09 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_10 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_11 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_12 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_13 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_14 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_15 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+ILL_6_16 would have gone in container ILL_6, previously loaded by jjakoncic</br>
+Spreadsheet would start with NSLS2_4 created with 48 samples</br>
 
 # Example with duplicate error
 
-dkreitler@xf17id2-ws3:/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets$ checksheet duplicate_test.xls
-no matching hostkey found for key ED25519 14:6f:40:26:2a:67:e2:fe:f7:4b:f7:ed:fa:fe:9c:c2
-['/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/parseSheet.py', '/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets/duplicate_test.xls']
-Executing dry run for importSpreadsheet
+dkreitler@xf17id2-ws3:/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets$ checksheet duplicate_test.xls</br>
+no matching hostkey found for key ED25519 14:6f:40:26:2a:67:e2:fe:f7:4b:f7:ed:fa:fe:9c:c2</br>
+['/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/parseSheet.py', '/GPFS/CENTRAL/xf17id2/dkreitler/projects/checksheet/test_sheets/duplicate_test.xls']</br>
+Executing dry run for importSpreadsheet</br>
 Insert spreadsheet aborting due to Exception('duplicate sampleName: sampleName: NSLS2_4_10')
