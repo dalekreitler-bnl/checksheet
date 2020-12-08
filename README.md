@@ -2,7 +2,7 @@
 
 MX Beamline staff must load sample spreadsheets during beamline alignment/setup which can consume time if the spreadsheet contains errors. It would be useful to run these checks before hand so that staff can focus on beamline setup rather than exception wrangling, hence checksheet.
 
-checksheet is a bash shell script that uses ssh to execute a python script on the compute node r21-001 (nsls2 controls network) in a conda environment that mimics the environment required by LSDC to run the validation check that occurs upon importing a spreadsheet. Checksheet's main functions are:
+checksheet is a bash shell script that uses ssh to execute a python script on the compute node r21-001 (nsls2 controls network) in a conda environment that mimics the environment required by LSDC to run the validation check that occurs upon importing a spreadsheet. Checksheet includes code written by John Skinner and Jun Aishima. Checksheet's main functions are:
 
 1) run the validation check that LSDC performs upon importing a spreadsheet
 2) read the monogo database on xf17id1-ca1, to check for previously loaded containers
